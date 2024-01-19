@@ -1,11 +1,13 @@
 # gittutorial
 
-[Step 1:](https://cli.github.com/manual/gh_repo_create) 
+# [Step 1: Create a New Repostory](https://cli.github.com/manual/gh_repo_create) 
 
 	gh repo create [<name>] [flags]
 
 		To create a remote repository non-interactively, supply the repository name and one of --public, --private, or --internal. Pass --clone to clone the new repository locally.
 
+
+# Step 2: 
 
 ## Create a New Repository
 
@@ -19,7 +21,7 @@ git remote add origin git@github.com:WeiJian123-tech/gittutorial.git
 git push -u origin main
 ```
 
-## Push an existing repository
+## ...Or Push an existing repository
 
 ```
 git remote add origin git@github.com:WeiJian123-tech/gittutorial.git
